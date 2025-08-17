@@ -36,4 +36,4 @@ This is my first project as an Apple Developer. 🚀
 
 ## ⚠️ Disclaimer
 This app is for **personal motivation and learning**.  
-It should not replace medical or professional exercise advice. Always exercise responsibly.
+It should not replace medical or professional exercise advice. Always exercise responsibly...
